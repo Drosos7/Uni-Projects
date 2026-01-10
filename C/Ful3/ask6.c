@@ -45,7 +45,7 @@ int main()
 		free(login_pass);
 		exit(1);
 	     }
-		printf("\nWelocme Back nigga!!");
+		printf("\nWelocme back!!");
 		free(login_name);
 		free(login_pass);
 	
@@ -88,4 +88,5 @@ int strcmp(char * str1, char * str2)
 	
 		 
 	
+
 
